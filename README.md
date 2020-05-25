@@ -40,7 +40,7 @@ Everything is carefully selected by a team of experts keeping your exam needs in
 # Requirements Librarys:-
 --------------
 -> Java 8\
--> Latest version of Android Studio SDK and Android Build Tools.\
+-> Latest version of Android Studio SDK and Android Build Tools.
 
 -> implementation 'com.google.code.gson:gson:2.8.5'\
 -> implementation 'com.squareup.picasso:picasso:2.71828'\
@@ -56,16 +56,16 @@ Everything is carefully selected by a team of experts keeping your exam needs in
 -> implementation 'com.android.support:design:28.0.0'\
 -> implementation 'com.android.support:cardview-v7:28.0.0'
 
-# <<<<<<<<<<<RULE>>>>>>
+# <<<<<<<<<<<RULE>>>>>>>>>>
 
-1.   On opening this app, Dewaara company will first welcome you.\
+1.   On opening this app, Dewaara company will first welcome you.
 2.   On the second stage, you will get many types of categories, which will give you a chance to play Quiz in your favourite subject.\
 3.   After clicking on your favourite category, you will have to wait for a few seconds, then you will have a third stage open in which you will be asked many questions related to that topic, it can be a question of national (India) or international level. Follow these rules to solve.\
-4.1. You have to answer the questions asked within 30 minutes.\
+4.1. You have to answer the questions asked within 30 minutes.
 4.2. You will be given 4 options to answer the question in which maximum 2 answers can be correct.\
 4.3. If you give the correct answer, the symbol of green color will be generated. And if you answer incorrectly, then the symbol of red color will be created. And if you skip the question then skybule color
-The symbol will be created. After completing the question, you have to click on the symbol (YES) in the top right side. Which will show your result.\
-5.   the Fifth stage is of Result. There will be a result show page of Quiz played by you. In this page, how much time have you given a correct answer? And it will also show which question No. Has given the correct answer. And which question no. Has given the wrong answer.\
+The symbol will be created. After completing the question, you have to click on the symbol (YES) in the top right side. Which will show your result.
+5.   the Fifth stage is of Result. There will be a result show page of Quiz played by you. In this page, how much time have you given a correct answer? And it will also show which question No. Has given the correct answer. And which question no. Has given the wrong answer.
 6.   And above the right-side toolbar will have two options in which\
 6.1  will be the first view answer in which you can see all the answer to the current category.\
 6.2. Secondly, you can restart the Quiz.
@@ -82,11 +82,15 @@ https://github.com/dewaara/GizaQuiz/blob/master/app/release/app-release.apk
 
 # Screenshots:-
 -------------
-<img src="https://s6.gifyu.com/images/MovieHub_01.jpg" width="500" height="900" />
+<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/category_page.png" width="300" height="700" />
 
-<img src="https://s6.gifyu.com/images/MovieHub_0227e19c6a5cce901a.jpg" width="500" height="900" />
+<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/question_format1.png" width="300" height="700" />
 
-<img src="https://s6.gifyu.com/images/MovieHub_03.jpg" width="500" height="900" />
+<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/question_format2.png" width="300" height="700" />
+
+<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/question_format3.png.png" width="300" height="700" />
+
+<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/result_page.png" width="300" height="700" />
 
 
 # Disclaimer:-
