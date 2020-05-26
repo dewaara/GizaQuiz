@@ -17,7 +17,7 @@
 ==> Address :- Chatra || Jharkhand 825408 || India\
 ==> Copyright 2020 || Dewaara Inc. 01/09/2019 11:25 PM
 
-# MovieHub
+# Giza Quiz
 ----------
 This Giza Quiz Game is in mainly intended to enhance the General Knowledge skills.
 
@@ -28,11 +28,14 @@ Everything is carefully selected by a team of experts keeping your exam needs in
 
 # Features:-
 ----------
-=> Discover the most popular,the highest rated and the most rated movies\
-=> Watch movie trailers and teasres\
-=> Read review from other users\
-=> Mark movies as favorites\
-=> Search for movies\
+=> Quiz can be accessed only if the user is logged in.\
+=> For signup user is required to give username, first name, last name, e-mail and password.\
+=> For login the user will be required to enter username and password only.\
+=> Every question is multiple choice question.\
+=> Every question is displayed only once per user.\
+=> Questions are displayed randomly for every user.\
+=> If the user presses refresh or go back to the previous page, there will be a new question for the user and the question he/she was on will be counted as attempted.\
+=> A message is displayed after every attempted question whether the answer was correct or incorrect.\
 => Offline work\
 => Material design\
 => UesrInterface(UI) otimized for phone and tablet
@@ -56,10 +59,10 @@ Everything is carefully selected by a team of experts keeping your exam needs in
 -> implementation 'com.android.support:design:28.0.0'\
 -> implementation 'com.android.support:cardview-v7:28.0.0'
 
-# <<<<<<<<<<<RULE>>>>>>>>>>
+# <<<<<<<<<<<RULE>>>>>>>>>>>>
 
 1.   On opening this app, Dewaara company will first welcome you.
-2.   On the second stage, you will get many types of categories, which will give you a chance to play Quiz in your favourite subject.\
+2.   On the second stage, you will get many types of categories, which will give you a chance to play Quiz in your favourite subject.
 3.   After clicking on your favourite category, you will have to wait for a few seconds, then you will have a third stage open in which you will be asked many questions related to that topic, it can be a question of national (India) or international level. Follow these rules to solve.\
 4.1. You have to answer the questions asked within 30 minutes.
 4.2. You will be given 4 options to answer the question in which maximum 2 answers can be correct.\
@@ -76,21 +79,21 @@ The symbol will be created. After completing the question, you have to click on 
 
 https://github.com/dewaara/GizaQuiz/blob/master/app/release/app-release.apk
 
-# MovieHub_DEMO:-
+# GizaQuiz_DEMO:-
 --------------- 
 [![GQ2019.gif](https://s7.gifyu.com/images/GQ2019.gif)](https://gifyu.com/image/nCbE)
 
 # Screenshots:-
 -------------
-<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/category_page.png" width="300" height="700" />
+<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/category_page.png" width="300" height="600" />
 
-<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/question_format1.png" width="300" height="700" />
+<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/question_format1.png" width="300" height="600" />
 
-<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/question_format2.png" width="300" height="700" />
+<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/question_format2.png" width="300" height="600" />
 
-<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/question_format3.png.png" width="300" height="700" />
+<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/question_format3.png" width="300" height="600" />
 
-<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/result_page.png" width="300" height="700" />
+<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/result_page.png" width="300" height="600" />
 
 
 # Disclaimer:-
