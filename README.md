@@ -1,5 +1,5 @@
 #                       *** WELCOME ***
-----------------------------------------
+-----------------------------------------
 
 
 
@@ -42,7 +42,7 @@ Everything is carefully selected by a team of experts keeping your exam needs in
 
 # Requirements Librarys:-
 --------------
--> Java 8\
+-> Java 8.1\
 -> Latest version of Android Studio SDK and Android Build Tools.
 
 -> implementation 'com.google.code.gson:gson:2.8.5'\
@@ -85,15 +85,15 @@ https://github.com/dewaara/GizaQuiz/blob/master/app/release/app-release.apk
 
 # Screenshots:-
 -------------
-<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/category_page.png" width="300" height="600" />
+<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/category_page.png" width="300" height="500" />
 
-<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/question_format1.png" width="300" height="600" />
+<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/question_format1.png" width="300" height="500" />
 
-<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/question_format2.png" width="300" height="600" />
+<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/question_format2.png" width="300" height="500" />
 
-<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/question_format3.png" width="300" height="600" />
+<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/question_format3.png" width="300" height="500" />
 
-<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/result_page.png" width="300" height="600" />
+<img src="https://github.com/dewaara/GizaQuiz/blob/master/screenshots/result_page.png" width="300" height="500" />
 
 
 # Disclaimer:-
