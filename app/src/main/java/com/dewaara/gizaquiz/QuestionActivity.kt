@@ -101,8 +101,9 @@ class QuestionActivity : AppCompatActivity(), NavigationView.OnNavigationItemSel
         //toolbar end
 
         // Full Screen Image show Ads------
+        MobileAds.initialize(this)
         mInterstitialAd = InterstitialAd(this)
-        mInterstitialAd.adUnitId = "ca-app-pub-4698516881015916/8800162639"
+        mInterstitialAd.adUnitId = "ca-app-pub-2026058591107844/3453615301"
         mInterstitialAd.loadAd(AdRequest.Builder().build())
 
         mInterstitialAd.adListener = object: AdListener(){

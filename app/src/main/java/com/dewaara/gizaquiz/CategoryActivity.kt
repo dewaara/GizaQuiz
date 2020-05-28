@@ -15,7 +15,8 @@ import kotlinx.android.synthetic.main.activity_category.*
 
 class CategoryActivity : AppCompatActivity() {
 
-    private lateinit var mInterstitialAd: InterstitialAd
+ lateinit var mAdView : AdView   
+ private lateinit var mInterstitialAd: InterstitialAd
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -24,13 +25,17 @@ class CategoryActivity : AppCompatActivity() {
         toolbar.title = "Giza Quiz"
         setSupportActionBar(toolbar)
 
-        // Start Ads----  as a Banner Ad
-        MobileAds.initialize(this,getString(R.string.admob_app_id))
+       // Banner Ads show start
+        MobileAds.initialize(this)
 
-        // Start Ads full screen Image show
+        mAdView = findViewById(R.id.adView1)
+        val adRequest = AdRequest.Builder().build()
+        mAdView.loadAd(adRequest)
+
+        
         // Full Screen Image show Ads------
         mInterstitialAd = InterstitialAd(this)
-        mInterstitialAd.adUnitId = "ca-app-pub-4698516881015916/8800162639"
+        mInterstitialAd.adUnitId = "ca-app-pub-2026058591107844/8705941982"
         mInterstitialAd.loadAd(AdRequest.Builder().build())
 
         mInterstitialAd.adListener = object: AdListener(){

@@ -8,12 +8,6 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    
-
-    <string name="admob_app_id">ca-app-pub-4698516881015916~4415197082</string>
-    <string name="banner_ad_Unit_Id">ca-app-pub-4698516881015916/3490441305</string>
 
     
 </resources>

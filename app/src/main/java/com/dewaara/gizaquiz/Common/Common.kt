@@ -11,7 +11,7 @@ import com.dewaara.gizaquiz.QuestionFragment
 
 object Common {
 
-    val TOTAL_TIME = 20*60*1000 //20 min
+    val TOTAL_TIME = 30*60*1000 //30 min
     var answerSheetListFiltered:MutableList<CurrentQuestion> = ArrayList()
     var answerSheetList:MutableList<CurrentQuestion> = ArrayList()
     var questionList:MutableList<Question> = ArrayList()

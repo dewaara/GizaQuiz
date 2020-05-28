@@ -123,15 +123,15 @@ class ResultActivity : AppCompatActivity() {
          supportActionBar!!.setDisplayShowHomeEnabled(true)
 
         // Banner Ads show start
-        MobileAds.initialize(this,"ca-app-pub-4698516881015916~4415197082")
+        MobileAds.initialize(this)
 
-        mAdView = findViewById(R.id.adView)
+        mAdView = findViewById(R.id.adView2)
         val adRequest = AdRequest.Builder().build()
         mAdView.loadAd(adRequest)
 
         //full screen Ads show start
         mInterstitialAd = InterstitialAd(this)
-        mInterstitialAd.adUnitId = "2374622014"
+        mInterstitialAd.adUnitId = "ca-app-pub-2026058591107844/3980228914"
         mInterstitialAd.loadAd(AdRequest.Builder().build())
 
         mInterstitialAd.adListener = object: AdListener(){
