@@ -81,7 +81,7 @@ https://github.com/dewaara/GizaQuiz/blob/master/app/release/app-release.apk
 
 # GizaQuiz_DEMO:-
 --------------- 
-[![GQ2019.gif](https://s7.gifyu.com/images/GQ2019.gif)](https://gifyu.com/image/nCbE)
+[![GQ2019.gif](https://github.com/dewaara/GizaQuiz/blob/7209e5e0dd8a360454c70214c998414006e96f75/demo/GizaQuizvideo.gif)]
 
 # Screenshots:-
 -------------
